@@ -1,0 +1,127 @@
+@charset="UTF-8";
+
+
+ html, body, h1, h2, h3, ul, li, a, p,
+ 
+ article, aside, footer, header, main, nav, section{
+
+}
+
+h1{
+margin-top: 5px;
+margin-bottom:5px;
+color:black;
+text-align:center;
+padding-top: 10px;
+padding-bottom:10px;
+font-size: 20px;
+}
+
+
+header{
+background-color:#ABB7B7;
+margin: 2px;
+height: 40px;
+width: 1880px;
+position:relative;
+
+}
+
+
+body {
+background-color: #f0f0f0;
+font-family: "Arial";
+font-size: 15px;
+}
+
+td{
+ margin: auto;
+ text-align:center;
+ border-style: solid;
+ border-color:gray;
+ border-width: 1px;
+ width: 800px;
+ }
+
+table{
+background-color: #e2e3e3;
+/* border-style: solid;
+border-width: 1px; */
+}
+
+th{
+color:white;
+height: 10px;
+width:800px;
+background-color: #446CB3;
+}
+
+
+tr{
+
+height: 1px;
+}
+
+
+.COORDINATOR{
+background-color: #446CB3;
+color:black;
+}
+
+.CRONICAS{
+background-color: #dd7e6b;
+color:black;
+}
+
+.VIZDAILIES{
+background-color: #f6b26b;
+color:black;
+}
+.tab05{
+background-color: #00aeef;
+color:black;
+}
+.AYA{
+background-color: #00a651;
+color:black;
+}
+
+.VIZPROJECTS{
+background-color: #ffd9b1;
+color:black;
+}
+.DIGITAL{
+background-color: #a4ffe8;
+color:black;
+}
+
+.DAILIES{
+background-color: #6dcff6;
+color:black;
+}
+.DESPIERTA{
+background-color: #fff568;
+color:black;
+}
+
+
+.PROJECTS{
+background-color: #898989;
+color:black;
+}
+
+.ALPUNTO{
+background-color: #d3a6dd;    
+}
+
+.OVERFLOW{
+background-color: #a0ff51;    
+}
+
+.OFF{
+background-color: #e2e3e3;    
+}
+
+
+
+
