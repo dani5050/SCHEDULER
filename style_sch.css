@@ -10,28 +10,22 @@
 h1{
 margin-top: 5px;
 margin-bottom:5px;
-color:black;
 text-align:center;
 padding-top: 10px;
 padding-bottom:10px;
-font-size: 20px;
+font-size: 15px;
 }
 
 
 header{
 background-color:#ABB7B7;
-margin: 2px;
-height: 40px;
-width: 1880px;
-position:relative;
-
+height: 30px;
 }
 
 
 body {
 background-color: #f0f0f0;
-font-family: "Arial";
-font-size: 15px;
+font-family: 'Roboto', sans-serif;
 }
 
 td{
@@ -39,28 +33,23 @@ td{
  text-align:center;
  border-style: solid;
  border-color:gray;
- border-width: 1px;
- width: 800px;
+ border-width: 0.5px;
+ width: 600px;
  }
 
 table{
 background-color: #e2e3e3;
-/* border-style: solid;
+border-style: solid;
 border-width: 1px; */
 }
 
 th{
 color:white;
-height: 10px;
-width:800px;
+height: 8px;
+width:600px;
 background-color: #446CB3;
 }
 
-
-tr{
-
-height: 1px;
-}
 
 
 .COORDINATOR{
